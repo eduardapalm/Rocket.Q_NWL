@@ -1,0 +1,20 @@
+{
+  "name": "RocketQ",
+  "version": "1.0.0",
+  "description": "Projeto desenvolvido na NLW - Discover para o gerenciamento de perguntas em Lives.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eduardapalm/Rocket.Q_NWL.git"
+  },
+  "keywords": [],
+  "author": "Maria Eduarda Peçanha de Almeida <eduardapalm27@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eduardapalm/Rocket.Q_NWL/issues"
+  },
+  "homepage": "https://github.com/eduardapalm/Rocket.Q_NWL#readme"
+}
